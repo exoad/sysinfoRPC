@@ -25,16 +25,22 @@ You can find a list of avaliable modes here:
 **Use either `npm` or `yarn` to install the following packages:**
 
 systeminformation
+
 discord-rich-prescence
 
 **Download the following necessary runtime environments & applications (required):**
 
 NodeJS: https://nodejs.org/en/download/
+
 Discord: https://discord.com/download
+
+And preferably an IDE to maybe edit information (VSCode, Atom, or just a terminal)
 
 ## Supported OS
 Windows
+
 macOS (Not tested)
+
 Linux (Certain Ones if configured correctly)
 
 ## Notes
