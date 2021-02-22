@@ -43,6 +43,7 @@ async function refresh() {
         });
         return;
     }
+  //choice 2 cpuonly
     if (mode.toLowerCase() == "cpuonly") {
         let cpumodel;
         let cpubrand;
@@ -68,6 +69,7 @@ async function refresh() {
         });
         return;
     }
+    //choice 3 ram
     if (mode.toLowerCase() == "ram") {
         let ramcount;
         let ramtype;
@@ -88,6 +90,7 @@ async function refresh() {
         });
         return;
     }
+  //choice 4 display output
     if (mode.toLowerCase() == "output") {
         let displaycount;
         await si.graphics().then(pool => {
@@ -121,6 +124,7 @@ async function refresh() {
         });
         return;
     }
+  //choice 5 diskinfo/hard drive info
     if (mode.toLowerCase() == "disksinfo") {
         let disks;
         let diskscount
