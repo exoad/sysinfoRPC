@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    
+  },
+  "name": "sysinfoRPC",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "legend": "echo Use node . <config_state>",
+    "modes": "echo ramcpu, cpuonly, ram, output, gpuonly, disk"
+  },
+  "author": "exoad",
+  "license": "ISC",
+  "description": "System Information RPC for Discord"
+}
