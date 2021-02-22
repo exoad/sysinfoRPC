@@ -44,4 +44,6 @@ macOS (Not tested)
 Linux (Certain Ones if configured correctly)
 
 ## Notes
-The status will be updated every 15~20 seconds. Changing this can effect Discord behaviour and other behaviours such as how others will be able to see your prescence.
+-The status will be updated every 15~20 seconds. Changing this can effect Discord behaviour and other behaviours such as how others will be able to see your prescence.
+
+-The `package.json` file is not necessary to be downloaded
